@@ -1,0 +1,24 @@
+[
+  {
+    "id": "targeted",
+    "title": "Targeted",
+    "year": "2022",
+    "role": "Graphic Designer",
+    "description": "A project about targeted visual design.",
+    "imageMain": "assets/images/targeted-main.jpg",
+    "imageSnippet": "assets/images/targeted-thumb.jpg",
+    "tags": ["branding", "illustration"],
+    "detailPage": "#"
+  },
+  {
+    "id": "heavy-broken",
+    "title": "Heavy & Broken",
+    "year": "2021",
+    "role": "Illustrator",
+    "description": "Exploration of heavy textures and broken forms.",
+    "imageMain": "assets/images/heavy-broken-main.jpg",
+    "imageSnippet": "assets/images/heavy-broken-thumb.jpg",
+    "tags": ["texture", "experimental"],
+    "detailPage": "#"
+  }
+]
